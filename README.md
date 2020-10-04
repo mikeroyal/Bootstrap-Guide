@@ -27,3 +27,23 @@
 [Bootstrap Courses by Coursera](https://www.coursera.org/courses?query=bootstrap)
 
 [Bootstrap Courses by Udemy](https://www.udemy.com/topic/bootstrap/)
+
+## Tools
+
+[Bootstrap Studio](https://bootstrapstudio.io/) is a powerful desktop app for designing and prototyping websites. It comes with a large number of built-in components, which you can easily drag and drop to build responsive web pages.
+
+[Bootstrap Build](https://bootstrap.build) is a tool that offers many advanced Bootstrap themeing capabilities, such as live preview, variable search, color picker, size adjuster and more.
+
+[LayoutIt!](https://www.layoutit.com/) is a interface builder for CSS Grid and Bootstrap that wants to be the kick-off for your front-end developments.
+
+[Tabler](https://tabler.io/) is free and open-source HTML Dashboard UI Kit built on Bootstrap.
+
+[BootstrapVue](https://bootstrap-vue.org/) provides one of the most comprehensive implementations of Bootstrap v4 for Vue.js with extensive and automated WAI-ARIA accessibility markup.
+
+[React Bootstrap](https://react-bootstrap.github.io/) is a package of Bootstrap components built with React.
+
+[React Router Bootstrap](https://github.com/react-bootstrap/react-router-bootstrap)is a package that provides integration between [React Router](https://github.com/reactjs/react-router) v4 and React Bootstrap.
+
+[Bootstrap Table](https://bootstrap-table.com/) is an extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
+
+[Adminlte-Laravel](http://demo.adminlte.acacha.org/) is a Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0.
