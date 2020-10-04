@@ -42,7 +42,7 @@
 
 [React Bootstrap](https://react-bootstrap.github.io/) is a package of Bootstrap components built with React.
 
-[React Router Bootstrap](https://github.com/react-bootstrap/react-router-bootstrap)is a package that provides integration between [React Router](https://github.com/reactjs/react-router) v4 and React Bootstrap.
+[React Router Bootstrap](https://github.com/react-bootstrap/react-router-bootstrap) is a package that provides integration between [React Router](https://github.com/reactjs/react-router) v4 and React Bootstrap.
 
 [Bootstrap Table](https://bootstrap-table.com/) is an extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation, Vue.js)
 
