@@ -4,7 +4,7 @@
   Bootstrap Guide
 </h1>
 
-#### A guide covering Bootstrap frent-end toolkit including the applications and tools that will make you a better and more efficient Bootstrap developer.
+#### A guide covering Bootstrap front-end toolkit including the applications and tools that will make you a better and more efficient Bootstrap developer.
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
